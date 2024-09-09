@@ -1,0 +1,15 @@
+Bash
+export AWS_ACCESS_KEY_ID=your_access_key_id
+export AWS_SECRET_ACCESS_KEY=your_secret_access_key
+export AWS_DEFAULT_REGION=your_preferred_region
+
+Windows commend prompt
+set AWS_ACCESS_KEY_ID=your_access_key_id
+set AWS_SECRET_ACCESS_KEY=your_secret_access_key
+set AWS_DEFAULT_REGION=your_preferred_region
+
+PowerShell
+$env:AWS_ACCESS_KEY_ID="your_access_key_id"
+$env:AWS_SECRET_ACCESS_KEY="your_secret_access_key"
+$env:AWS_DEFAULT_REGION="your_preferred_region"
+
